@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm ***Mostafa mansour. I'm a CS Student with experience in software development and competitive programming.
+I'm ***Mostafa mansour***. I'm a CS Student with experience in software development and competitive programming.
 
 - I participated in ICPC ECPC Qualifications Collegiate Programming Contest 2 times
 - I reached a puple rating on Codeforces.
