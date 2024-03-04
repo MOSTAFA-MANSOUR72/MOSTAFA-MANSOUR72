@@ -28,9 +28,8 @@ I'm ***Mostafa mansour***. I'm a CS Student with experience in software developm
     <a href="https://www.facebook.com/mostafa.mansour.319247">
         <img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/>
     </a>
-    <a href="mostafamansour76272@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
+    	<a href="mailto:mostafamansour76272@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
 </p>
 
 
