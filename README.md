@@ -18,3 +18,28 @@ I'm ***Mostafa mansour***. I'm a CS Student with experience in software developm
 
 - I participated in ICPC ECPC Qualifications Collegiate Programming Contest 2 times
 - I reached a puple rating on Codeforces.
+
+## You can find me here, Let's Connect </h2>
+
+<p>
+    <a href="https://www.linkedin.com/in/mostafa-mansour-227b90288/">
+        <img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/mostafa.mansour.319247">
+        <img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/>
+    </a>
+    <a href="mostafamansour76272@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
+</p>
+
+
+## My Competitive Programming Profiles
+<p>
+    <a href="https://codeforces.com/profile/Mostafa-Mansour" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Mostafa-Mansour" height="40" width="40" />
+    </a>
+    &emsp; 
+    <a href="https://leetcode.com/HAIZENBURG_2/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/HAIZENBURG_2/" height="35" width="30" />
+</p>
