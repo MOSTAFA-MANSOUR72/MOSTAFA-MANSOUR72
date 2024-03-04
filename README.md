@@ -43,3 +43,13 @@ I'm ***Mostafa mansour***. I'm a CS Student with experience in software developm
     <a href="https://leetcode.com/HAIZENBURG_2/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/HAIZENBURG_2/" height="35" width="30" />
 </p>
+
+
+<br>
+
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTAFA-MANSOUR72&layout=compact)](https://github.com/MOSTAFA-MANSOUR72)
+<br>
+![](https://komarev.com/ghpvc/?username=MOSTAFA-MANSOUR72&style=flat-square)
