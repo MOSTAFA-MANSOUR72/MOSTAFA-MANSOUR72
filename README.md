@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm ***Mostafa mansour***. I'm a CS Student with experience in software development and competitive programming.
 
 - I participated in ICPC ECPC Qualifications Collegiate Programming Contest 2 times
-- I reached a puple rating on Codeforces.
+- I reached  puple rating on Codeforces.
 
 ## You can find me here, Let's Connect </h2>
 
