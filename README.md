@@ -39,8 +39,8 @@ I'm ***Mostafa mansour***. I'm a CS Student with experience in software developm
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Mostafa-Mansour" height="40" width="40" />
     </a>
     &emsp; 
-    <a href="https://codeforces.com/profile/Mostafa-Mansour" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/HAIZENBURG_2/" height="35" width="30" />
+    <a href="https://leetcode.com/MOSTAFA-MANSOUR72/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/MOSTAFA-MANSOUR72/" height="35" width="30" />
 </p>
 
 
