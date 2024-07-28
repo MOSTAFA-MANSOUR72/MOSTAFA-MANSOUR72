@@ -18,7 +18,7 @@ I'm ***Mostafa mansour***. I'm a CS Student with experience in software developm
 
 - I participated in ICPC ECPC Qualifications Collegiate Programming Contest 3 times.
 - I am ECPC 2024-2025 Finalist.
-- I reached  puple rating on Codeforces.
+- I reached  puple on Codeforces.
 
 ## You can find me here, Let's Connect </h2>
 
