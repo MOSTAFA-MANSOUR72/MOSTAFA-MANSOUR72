@@ -24,7 +24,7 @@ I'm ***Mostafa mansour***. I'm a CS Student with passionate about software devel
 ## You can find me here, Let's Connect </h2>
 
 <p>
-    <a href="https://www.linkedin.com/in/mostafa-mansour-227b90288/">
+    <a href="https://www.linkedin.com/in/-mansour-/">
         <img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://www.facebook.com/mostafa.mansour.319247">
