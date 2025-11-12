@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mansour</h1>
+<p align='center'>
+<a>
+  <img src="https://komarev.com/ghpvc/?username=mostafa-mansour72&style=flat-square" alt="Profile Views"/>
+</a>
+<a href="https://github.com/MOSTAFA-MANSOUR72?tab=repositories"><img src="https://img.shields.io/github/stars/MOSTAFA-MANSOUR72?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://leetcode.com/u/mansour72/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmansour72&logo=leetcode&logoColor=yellow"/></a>
+</p>
 <h3 align="center">I'm a CS Graduate, passionate about Software Engineering and building things.</h3>
 
 Currently, I am having a scholarship at ITI in open source development field, learing about software development life cycle and how swe products are being built, exporing various web development tools like node.js, express.js, react.js, angular.js, vue.js, laravel, and ruby on rails. Trying to practice by building multiple projects using multi stacks and technologies to enhance my ability to make the best use of different technologies to produce a helpful product.
@@ -79,6 +86,3 @@ I mostly work with **Java**, specifically **Spring boot** in the backend with **
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafa-mansour72&style=flat-square" alt="Profile Views"/>
-</p>
