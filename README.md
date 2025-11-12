@@ -14,37 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm ***Mostafa mansour***. I'm a CS Student with passionate about software development and competitive programming.
+<h1 align="center">Hi 👋, I'm Mostafa Mansour</h1>
+<h3 align="center">I'm a CS Graduate, passionate about software Engineering and building things.</h3>
 
-- I participated in ICPC ECPC Qualifications Collegiate Programming Contest 3 times.
-- I am ECPC 2024-2025 Finalist.
-- I reached  puple on Codeforces.
-- I'm currently studing software engineering as a java backEnd developer with <strong>Spring boot<strong>. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-mansour72&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-mansour72" /> </p>
 
-## You can find me here, Let's Connect </h2>
+- 🌱 I’m currently learning **Java, Spring boot and using it to build backend systems.**
 
-<p>
-    <a href="https://www.linkedin.com/in/-mansour-/">
-        <img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.facebook.com/mostafa.mansour.319247">
-        <img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/>
-    </a>
-    	<a href="mailto:mostafamansour76272@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+- 📫 How to reach me **mostafamansour76272@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_D29xYm-UDbIj_pWp5age4AU-idIwzhK](https://drive.google.com/file/d/1_D29xYm-UDbIj_pWp5age4AU-idIwzhK)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-mansour72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-mansour72/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mostafa.mansour.319247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mostafa.mansour.319247/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mansour" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/mansour72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mansour72/" height="30" width="40" /></a>
+<a href="https://discord.gg/3ashrei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3ashrei" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## My Competitive Programming Profiles
-<p>
-    <a href="https://codeforces.com/profile/Mostafa-Mansour" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Mostafa-Mansour" height="40" width="40" />
-    </a>
-    &emsp; 
-    <a href="https://leetcode.com/MOSTAFA-MANSOUR72/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/MOSTAFA-MANSOUR72/" height="35" width="30" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-mansour72&show_icons=true&locale=en&layout=compact" alt="mostafa-mansour72" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-mansour72&show_icons=true&locale=en" alt="mostafa-mansour72" /></p>
 
 <br>
 
