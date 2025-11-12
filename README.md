@@ -14,10 +14,12 @@ Apart from the pinned repositories, I have built:
 - [Online Banking System] (https://github.com/MOSTAFA-MANSOUR72/Online-banking-system-springboot)
 #### Projects i built using python & flask:
 - [GoodReads Clone] (https://github.com/MOSTAFA-MANSOUR72/GoodReads-Flask-Mini-Clone)
-#### C & C++ practical projects 
+#### C & C++ Practical projects 
 - [Online book Reader] (https://github.com/MOSTAFA-MANSOUR72/Online-book-reader)
 - [MultiThreaded-Calculater] (https://github.com/MOSTAFA-MANSOUR72/MultiThreaded-Calculator)
 
+#### Open Source Contribution:
+- [Adding Filter feature] (https://github.com/KathiraveluLab/Beehive/pull/199)
 
 ### Tech Stack
 
@@ -50,7 +52,9 @@ I mostly work with **Java**, specifically **Spring boot** in the backend with **
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="Flask" width="40" height="40"/>
+</a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
