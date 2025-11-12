@@ -21,7 +21,7 @@ Currently, I am having a scholarship at ITI in open source development field, le
 
 Apart from the pinned repositories, I have built:
 #### Projects i built using java & spring boot: 
-- [Bridge | E-commerce Backend Platform](https://github.com/MOSTAFA-MANSOUR72/Bridge)]
+- [Bridge | E-commerce Backend Platform](https://github.com/MOSTAFA-MANSOUR72/Bridge)
 - [Online Banking System](https://github.com/MOSTAFA-MANSOUR72/Online-banking-system-springboot)
 #### Projects i built using python & flask:
 - [GoodReads Clone](https://github.com/MOSTAFA-MANSOUR72/GoodReads-Flask-Mini-Clone)
