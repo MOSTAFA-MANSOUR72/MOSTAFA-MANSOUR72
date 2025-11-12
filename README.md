@@ -1,15 +1,27 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mansour</h1>
 <h3 align="center">I'm a CS Graduate, passionate about Software Engineering and building things.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafa-mansour72&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-mansour72" />
-</p>
+Currently, I am having a scholarship at ITI in open source development field, learing about software development life cycle and how swe products are being built, exporing various web development tools like node.js, express.js, react.js, angular.js, vue.js, laravel, and ruby on rails. Trying to practice by building multiple projects using multi stacks and technologies to enhance my ability to make the best use of different technologies to produce a helpful product.
 
-- 🌱 I’m currently learning **Java, Spring Boot**, and using it to build backend systems.  
 - 📫 How to reach me: **mostafamansour76272@gmail.com**  
 - 📄 Know about my experiences: [View my CV](https://drive.google.com/file/d/1_D29xYm-UDbIj_pWp5age4AU-idIwzhK/view)
 
----
+### Projects
+
+Apart from the pinned repositories, I have built:
+#### Projects i built using java & spring boot: 
+- [Bridge | E-commerce Backend Platform] (https://github.com/MOSTAFA-MANSOUR72/Bridge)
+- [Online Banking System] (https://github.com/MOSTAFA-MANSOUR72/Online-banking-system-springboot)
+#### Projects i built using python & flask:
+- [GoodReads Clone] (https://github.com/MOSTAFA-MANSOUR72/GoodReads-Flask-Mini-Clone)
+#### C & C++ practical projects 
+- [Online book Reader] (https://github.com/MOSTAFA-MANSOUR72/Online-book-reader)
+- [MultiThreaded-Calculater] (https://github.com/MOSTAFA-MANSOUR72/MultiThreaded-Calculator)
+
+
+### Tech Stack
+
+I mostly work with **Java**, specifically **Spring boot** in the backend with **MySql** as the database system. Recently, I have been tinkering with **python** and **JavaScript**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
