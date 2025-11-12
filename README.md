@@ -21,16 +21,16 @@ Currently, I am having a scholarship at ITI in open source development field, le
 
 Apart from the pinned repositories, I have built:
 #### Projects i built using java & spring boot: 
-- [Bridge | E-commerce Backend Platform] (https://github.com/MOSTAFA-MANSOUR72/Bridge)
-- [Online Banking System] (https://github.com/MOSTAFA-MANSOUR72/Online-banking-system-springboot)
+- [Bridge | E-commerce Backend Platform](https://github.com/MOSTAFA-MANSOUR72/Bridge)]
+- [Online Banking System](https://github.com/MOSTAFA-MANSOUR72/Online-banking-system-springboot)
 #### Projects i built using python & flask:
-- [GoodReads Clone] (https://github.com/MOSTAFA-MANSOUR72/GoodReads-Flask-Mini-Clone)
+- [GoodReads Clone](https://github.com/MOSTAFA-MANSOUR72/GoodReads-Flask-Mini-Clone)
 #### C & C++ Practical projects 
-- [Online book Reader] (https://github.com/MOSTAFA-MANSOUR72/Online-book-reader)
-- [MultiThreaded-Calculater] (https://github.com/MOSTAFA-MANSOUR72/MultiThreaded-Calculator)
+- [Online book Reader](https://github.com/MOSTAFA-MANSOUR72/Online-book-reader)
+- [MultiThreaded-Calculater](https://github.com/MOSTAFA-MANSOUR72/MultiThreaded-Calculator)
 
 #### Open Source Contribution:
-- [Adding Filter feature] (https://github.com/KathiraveluLab/Beehive/pull/199)
+- [Adding Filter feature](https://github.com/KathiraveluLab/Beehive/pull/199)
 
 ### Tech Stack
 
