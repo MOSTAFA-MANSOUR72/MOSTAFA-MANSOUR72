@@ -19,7 +19,7 @@ Currently, I am having a scholarship at ITI in open source development field, le
 
 ### Projects
 
-Apart from the pinned repositories, I have built:
+A part from the pinned repositories I have built:
 #### Projects i built using java & spring boot: 
 - [Bridge | E-commerce Backend Platform](https://github.com/MOSTAFA-MANSOUR72/Bridge)
 - [Online Banking System](https://github.com/MOSTAFA-MANSOUR72/Online-banking-system-springboot)
