@@ -78,15 +78,5 @@ I mostly work with **Java**, specifically **Spring boot** in the backend with **
   <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
 </p>
 
----
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-mansour72&show_icons=true&locale=en&layout=compact" alt="mostafa-mansour72" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-mansour72&show_icons=true&locale=en" alt="mostafa-mansour72" />
-</p>
-
----
 
