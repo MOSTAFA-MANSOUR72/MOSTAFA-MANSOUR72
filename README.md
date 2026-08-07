@@ -23,6 +23,8 @@ A part from the pinned repositories I have built:
 #### Projects i built using java & spring boot: 
 - [Bridge | E-commerce Backend Platform](https://github.com/MOSTAFA-MANSOUR72/Bridge)
 - [Online Banking System](https://github.com/MOSTAFA-MANSOUR72/Online-banking-system-springboot)
+#### Projects i built using javascript(express, angular):
+- [Full-Stack Inventory ERP System](https://github.com/MOSTAFA-MANSOUR72/Inventory-ERP-System.)
 #### Projects i built using python & flask:
 - [GoodReads Clone](https://github.com/MOSTAFA-MANSOUR72/GoodReads-Flask-Mini-Clone)
 #### C & C++ Practical projects 
